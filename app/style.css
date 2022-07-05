@@ -1,0 +1,85 @@
+body {
+    background-color: black;
+    color: aliceblue;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    text-align: center;
+}
+
+h1 {
+    font-size: 55px;
+    background: linear-gradient(to right, #fcf2f2 0%, #ffffff 100%);
+
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.btn {
+    background-image: linear-gradient(to right, #FF512F 0%, #DD2476 51%, #FF512F 100%);
+    margin: 10px;
+    padding: 15px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    /* transition: 0.5s; */
+    background-size: 200% auto;
+    color: white;
+    /* box-shadow: 0 0 20px #eee; */
+    border-radius: 10px;
+    /* display: block; */
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-position: right center;
+    /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+}
+
+.btnfund {
+    background-image: linear-gradient(to right, #FF512F 0%, #DD2476 51%, #FF512F 100%);
+    margin: 10px;
+    margin-left: 2px;
+    padding: 14px 20px;
+    text-align: center;
+    text-transform: uppercase;
+    /* transition: 0.5s; */
+    background-size: 200% auto;
+    color: white;
+    /* box-shadow: 0 0 20px #eee; */
+    border-radius: 10px;
+    /* display: block; */
+    cursor: pointer;
+}
+
+p {
+    font-size: 25px;
+
+}
+
+
+
+.btnfund:hover {
+    background-position: right center;
+    /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+}
+
+
+.custom-search {
+    position: relative;
+    width: 300px;
+}
+
+.custom-search-input {
+    width: 60%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 12px 100px 12px 20px;
+    line-height: 1;
+    box-sizing: border-box;
+    outline: none;
+}
