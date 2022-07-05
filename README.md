@@ -7,9 +7,9 @@ This is my first Dapp :)
 
 ## Tech Stack
 
-**Client:** HTML, CSS & JavaScript.
+**Client:** HTML, CSS & JavaScript
 
-**Server:** Solidity (Samrt Contracts) & JavaScript.
+**Server:** Solidity (Samrt Contracts)
 
 ## 🔗 Links
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DevABDee)
@@ -23,5 +23,5 @@ This is my first Dapp :)
 
 ## Acknowledgements
 
- - Thanks to Patrick & FreeCodeCamp for very well exlained and briliant lessons, which helpled me to create this dapp.
+ - Thanks to Patrick & FreeCodeCamp for very well explained and briliant lessons, which helpled me to create this dapp.
 
